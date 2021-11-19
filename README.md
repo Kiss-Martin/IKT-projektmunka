@@ -7,4 +7,4 @@
 - Bartha Bende
 - Tompos Gergő
 ----------
-![Diófa](http://www.clubdio.hu/component/joomgallery/mediawave-2013-ujrahasznosito-zarobuli#)
+![Diófa](http://pizzza.hu/static/restaurant_pictures/1268_logo.jpg)
