@@ -6,7 +6,7 @@
     margin: 20px 20px 20px;
 }
 .gomblink{
-    color: grey;
+    color: coral;
     text-decoration: none;
 }
 .gomblink:active{
@@ -14,14 +14,28 @@
 }
 .indexgomb:hover{
     transition: 0.5s;
-    background-color: black;
+    background-color: transparent;
     transition: 0.2s;
     text-decoration: underline;
 }
-.indexgomb, .gomblink:hover{
+.gomblink:hover{
     transition: 0.2s;
     color: white;
 }
 .gombokdiv{
     text-align: center;
+    background-image: url(Képek/Terasz.jpg);
+    border: green 5px solid;
+}
+.googlemaps{
+    margin-top: 5%;
+}
+iframe{
+    float: left;
+    outline: green solid 2px;
+    margin-right: 20px;
+}
+.megk{
+    font-size: 30px;
+    margin
 }
