@@ -29,13 +29,30 @@
 }
 .googlemaps{
     margin-top: 5%;
+    position:absolute;                  
+    bottom:0;                           
+    left:0;
+    color: white;
+    background-color: black;   
+    outline: green solid 5px;  
+    width: 100%;
 }
 iframe{
     float: left;
-    outline: green solid 2px;
+    outline: green solid 3px;
     margin-right: 20px;
 }
 .megk{
     font-size: 30px;
-    margin
+    margin-top: 8%;
+}
+.napok{
+    font-size: 30px;
+    list-style-image: url(Képek/pizza-li.png);
+}
+#nyitvatartas{
+    margin-left: 5%;
+    font-size: 35px;
+    margin-right: 5%;
+    margin-top: 14%;
 }
