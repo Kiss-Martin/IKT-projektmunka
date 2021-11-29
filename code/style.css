@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
 
+h1{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-image: url('képek/h1\ hatter.png');
+    color: blanchedalmond;
+}
+body{
+    background-color: black;
+}
 .indexgomb{
     font-size: 20px;
     border-radius: 12px;
@@ -103,5 +113,21 @@ iframe{
 }
 
 .pizzak{
+
+    background-color: darkgray;
+    width: 800px;
     
+}
+.etlapgomb{
+    font-size: 20px;
+    border-radius: 12px;
+    text-align: center;
+    width: 17%;
+    margin: 20px 20px 20px;
+    background-color: rgb(0, 0, 0, 0.4);  
+}
+#etlapgomb{
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+    color: chocolate;
 }
