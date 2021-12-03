@@ -203,3 +203,6 @@ span{
     width: 200px;
     height: 200px;
 }
+.salataontet{
+    list-style-image: url("képek/salataontet.xcf");
+}
