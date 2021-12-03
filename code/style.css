@@ -158,3 +158,22 @@ iframe{
     height: 500px;
     border: burlywood solid 2px;
 }
+.tesztak{
+    font-family: 'Oswald', sans-serif;
+}
+.salata{
+    font-family: 'Oswald', sans-serif;  
+}
+.pks{
+    font-family: 'Oswald', sans-serif;
+}
+#pizzak{
+    font-family: 'Oswald', sans-serif;
+}
+.edessegek{
+    font-family: 'Oswald', sans-serif;
+}
+span{
+    text-decoration: underline;
+    color: red;
+}
