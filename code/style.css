@@ -149,3 +149,12 @@ iframe{
 .felsorolas{
     color: white;
 }
+.galeriakepekdiv{
+    margin: auto;
+    text-align: center;
+}
+.galeriaimg{
+    width: 500px;
+    height: 500px;
+    border: burlywood solid 2px;
+}
