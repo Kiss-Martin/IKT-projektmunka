@@ -154,8 +154,8 @@ iframe{
     text-align: center;
 }
 .galeriaimg{
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: 550px;
     border: burlywood solid 2px;
 }
 .tesztak{
@@ -176,4 +176,7 @@ iframe{
 span{
     text-decoration: underline;
     color: red;
+}
+.galeria{
+    background-image: url(Képek/Terasz.jpg);
 }
