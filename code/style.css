@@ -65,7 +65,7 @@ body{
     width: 100%;
 }
 .elerhetoseghatter{
-    background-image: url('képek/Diófa.jpg');
+
 }
 .cim{
     margin-top: 5%;
@@ -87,7 +87,7 @@ iframe{
 
 #nyitvatartas{
     font-size: 24px;
-    color: black;
+    color: wheat;
 }
 
 .nyitvatartas{
