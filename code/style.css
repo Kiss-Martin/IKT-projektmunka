@@ -206,3 +206,18 @@ span{
 .salataontet{
     list-style-image: url("képek/salataontet.xcf");
 }
+.urlap{
+    width: 100%;
+    font-family: 'Oswald', sans serif;
+    color: wheat;
+    background-color: black;
+    opacity: 0.8;
+}
+#urlap{
+    text-align: center;
+}
+input[type=text] input[type=number] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+} 
