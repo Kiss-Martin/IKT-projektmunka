@@ -209,15 +209,22 @@ span{
 .urlap{
     width: 100%;
     font-family: 'Oswald', sans serif;
+    font-size: 25px;
     color: wheat;
     background-color: black;
     opacity: 0.8;
 }
 #urlap{
     text-align: center;
+    width: 100%;
 }
-input[type=text] input[type=number] {
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-} 
+input{
+    padding: 8px;
+    margin: 12px;
+    width: 200px;
+}
+label {
+    display: inline-block;
+    width: 100px;
+}
+
