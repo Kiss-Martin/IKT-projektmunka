@@ -58,8 +58,7 @@ body{
 }
 
 .googlemaps{
-    margin-top: 5%;
-    position:absolute;                  
+    margin-top: 5%;             
     bottom:0;                           
     left:0;
     color: white;
@@ -67,7 +66,9 @@ body{
     outline: green solid 5px;  
     width: 100%;
 }
-
+.cim{
+    margin-top: 5%;
+}
 iframe{
     float: left;
     outline: green solid 3px;
@@ -76,7 +77,6 @@ iframe{
 
 .megk{
     font-size: 30px;
-    margin-top: 8%;
 }
 
 .napok{
